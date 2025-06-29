@@ -9,7 +9,7 @@
 - 🌱 I’m diving deeper into **Three.js & advanced animations with GSAP**  
 - 💬 Ask me about **JavaScript, TypeScript, Golang, Dart, MERN stack, PostgreSQL**  
 - 📫 Reach me at: **souvikdhara032@gmail.com**  
-- ⚡ Fun fact: *I probably have more saved Figma links than tabs open right now (and that's saying something).*
+- 🌐 Portfolio: [souvik-devfolio.vercel.com](https://souvik-devfolio.vercel.app)
 
 ---
 
@@ -22,6 +22,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
 #### ⚙️ Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -54,9 +55,9 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/your-devto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-dhara-3a4bab336/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SouvikDhara99/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/biksou84/)
 
 ---
 
