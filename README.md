@@ -9,7 +9,7 @@
 - 🌱 I’m diving deeper into **Three.js & advanced animations with GSAP**  
 - 💬 Ask me about **JavaScript, TypeScript, Golang, Dart, MERN stack, PostgreSQL**  
 - 📫 Reach me at: **souvikdhara032@gmail.com**  
-- 🌐 Portfolio: [souvik-devfolio.vercel.com](https://souvik-devfolio.vercel.app)
+- 🌐 Portfolio: [souvik-devfolio.vercel.app](https://souvik-devfolio.vercel.app)
 
 ---
 
