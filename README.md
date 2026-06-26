@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **cutting-edge Fullstack projects**  
 - 🌱 I’m diving deeper into **Three.js & advanced animations with GSAP**  
-- 💬 Ask me about **JavaScript, TypeScript, Golang, Dart, MERN stack, PostgreSQL**  
+- 💬 Ask me about **JavaScript, TypeScript, Golang, Dart, MERN stack, Python, AI-ML**  
 - 📫 Reach me at: **souvikdhara032@gmail.com**  
 - 🌐 Portfolio: [souvik-devfolio.vercel.app](https://souvik-devfolio.vercel.app)
 
@@ -26,7 +26,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
